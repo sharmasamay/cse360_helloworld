@@ -1,4 +1,4 @@
 # cse360_helloworld
 This repository is to serve as CSE360 GitHub tutorial.
 
-This is a change reflecting a commit done by Sarthak Aggarwal.
+This is a change reflecting a commit done by Shreyash Singh.
